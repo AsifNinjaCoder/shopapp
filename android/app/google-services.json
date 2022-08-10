@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842461770964",
+    "project_id": "newshop-69b8e",
+    "storage_bucket": "newshop-69b8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842461770964:android:6350a725feee3d60abf741",
+        "android_client_info": {
+          "package_name": "com.example.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842461770964-eld2nfjugfchr9cg1f23ep418ci32k3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzinS-btFcWn0fawRTc1b7UVYX2_FZrOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842461770964-eld2nfjugfchr9cg1f23ep418ci32k3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
